@@ -1,0 +1,9 @@
+{
+    "name": "naimu/leom-php",
+    "autoload": {
+        "psr-4": {
+            "Naimu\\LeomPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
